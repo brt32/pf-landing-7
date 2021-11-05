@@ -139,6 +139,10 @@ img {
   margin-bottom: 15px;
 }
 
+.cases img {
+  height: 50%;
+}
+
 .cases img:hover {
   opacity: 0.7;
 }
